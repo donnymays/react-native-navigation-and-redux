@@ -11,7 +11,9 @@ const MeadlDetailsScreen = props => {
 
 const styles = StyleSheet.create({
   screen : {
-    flex: 1
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center'
   }
 });
 
